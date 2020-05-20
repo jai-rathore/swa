@@ -2,20 +2,20 @@ const data = {
   products: [
     {
       id: 10,
-      name: 'Strawberries',
-      description: '16oz package of fresh organic strawberries',
+      name: 'Cybertruck',
+      description: 'Bulletproof electric pickup',
       quantity: '1',
     },
     {
       id: 20,
-      name: 'Sliced bread',
-      description: 'Loaf of fresh sliced wheat bread',
+      name: 'Roadster',
+      description: "0-60mph in 1.9 seconds, that's  the base model",
       quantity: 1,
     },
     {
       id: 30,
-      name: 'Apples',
-      description: 'Bag of 7 fresh McIntosh apples',
+      name: 'McLaren',
+      description: 'Just because.. ',
       quantity: 1,
     },
   ],
